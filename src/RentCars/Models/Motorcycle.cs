@@ -6,3 +6,5 @@ namespace RentCars.Models;
 public class Motorcycle : Vehicle
 {
 }
+
+//vqv
