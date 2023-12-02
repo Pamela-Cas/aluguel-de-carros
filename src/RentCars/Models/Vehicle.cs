@@ -12,6 +12,5 @@ public class Vehicle
     public Color MainColor { get; set; }
     public int Year { get; set; }
     public double PricePerDay { get; set; }
-    public bool IsRental { get; set; } = false;
-
+    public bool IsRented { get; set; } = false;
 }
