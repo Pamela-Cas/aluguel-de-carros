@@ -2,6 +2,29 @@
 
 Boas-vindas ao repositório do projeto `Aluguel de Carros`
 
+## Orientações
+
+### Instalação e Execução
+Se deseja experimentar o projeto em sua máquina local, siga estas etapas:
+
+1. Clone o repositório:
+```sh
+git clone git@github.com:marquesdjuliana/trybank.git
+```
+2. Entre na pasta do repositório:
+```sh
+cd trybank 
+```
+2. Instale as dependências:
+Entre na pasta:
+```sh
+cd src/ 
+```
+Execute o comando:
+```sh
+dotnet restore 
+```
+
 # Requisitos do Projeto
 
 A empresa do coração em que você trabalha está desenvolvendo um sistema para controlar o aluguel de carros, e você foi o primeiro contratado para iniciar o desenvolvimento do sistema.
