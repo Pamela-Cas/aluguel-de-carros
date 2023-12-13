@@ -1,6 +1,6 @@
 # Aluguel de Carros
 
-Boas-vindas ao repositório do projeto `Aluguel de Carros`
+Boas-vindas ao repositório do projeto `Aluguel de Carros` realizado para avaliação na eletiva de C# durante o curso de Desenvolvimento Web na Trybe. 
 
 ## Sobre o Projeto
 Nesse projeto foi construído aplicação do tipo Console com a capacidade de realizar diversas operações básicas de um sistema de aluguel de carros. 
